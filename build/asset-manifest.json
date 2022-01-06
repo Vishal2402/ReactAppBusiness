@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactAppBusiness/static/css/main.658f91c4.css",
+    "main.js": "/ReactAppBusiness/static/js/main.3d98718f.js",
+    "static/media/digital.jpg": "/ReactAppBusiness/static/media/digital.190eb2c6980a56704cbc.jpg",
+    "static/media/web2.png": "/ReactAppBusiness/static/media/web2.21b3b2094b29b786437e.png",
+    "static/media/app.jpg": "/ReactAppBusiness/static/media/app.36bc46645675e30f6595.jpg",
+    "static/media/website.jpg": "/ReactAppBusiness/static/media/website.90bc420437720bea8959.jpg",
+    "static/media/software.jpg": "/ReactAppBusiness/static/media/software.ae496a84d16a35bd0c58.jpg",
+    "static/media/web.jpg": "/ReactAppBusiness/static/media/web.09f012696f05b7f4e034.jpg",
+    "static/media/ios.jpg": "/ReactAppBusiness/static/media/ios.a6bec57619e4e9e34666.jpg",
+    "static/media/android.jpg": "/ReactAppBusiness/static/media/android.2d5b6532caf4e0d3fe8d.jpg",
+    "index.html": "/ReactAppBusiness/index.html",
+    "main.658f91c4.css.map": "/ReactAppBusiness/static/css/main.658f91c4.css.map",
+    "main.3d98718f.js.map": "/ReactAppBusiness/static/js/main.3d98718f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658f91c4.css",
+    "static/js/main.3d98718f.js"
+  ]
+}
